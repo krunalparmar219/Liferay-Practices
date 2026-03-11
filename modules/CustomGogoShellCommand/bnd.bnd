@@ -1,0 +1,4 @@
+Bundle-Name: CustomGogoShellCommand
+Bundle-SymbolicName: gogoshell
+Bundle-Version: 1.0.0
+Export-Package: gogoshell.api

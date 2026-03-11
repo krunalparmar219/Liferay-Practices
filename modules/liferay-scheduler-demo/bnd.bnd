@@ -1,0 +1,3 @@
+Bundle-Name: liferay-scheduler-demo
+Bundle-SymbolicName: com.example.scheduler
+Bundle-Version: 1.0.0

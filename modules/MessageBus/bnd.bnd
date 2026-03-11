@@ -1,0 +1,4 @@
+Bundle-Name: MessageBus
+Bundle-SymbolicName: com.example.messagebus
+Bundle-Version: 1.0.0
+Export-Package: com.example.messagebus.api
