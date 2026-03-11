@@ -1,0 +1,1 @@
+create unique index IX_68A49261 on emp_Employee (uuid_[$COLUMN_LENGTH:75$], groupId);
